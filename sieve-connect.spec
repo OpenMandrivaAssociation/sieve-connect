@@ -45,3 +45,14 @@ make INSTALLROOT=%{buildroot} PREFIX=%{_prefix} MANDIR=/share/man install
 %files
 %{_bindir}/%{name}
 %{_mandir}/man1/%{name}.1*
+
+
+%changelog
+* Wed Mar 28 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 0.81-2
++ Revision: 787979
+- fix requires
+
+* Wed Mar 28 2012 Dmitry Mikhirev <dmikhirev@mandriva.org> 0.81-1
++ Revision: 787964
+- imported package sieve-connect
+
