@@ -1,6 +1,6 @@
 Name:		sieve-connect
-Version:	0.81
-Release:	3
+Version:	0.90
+Release:	1
 Summary:	A client for the ManageSieve protocol
 Group:		Networking/Mail
 License:	BSD
