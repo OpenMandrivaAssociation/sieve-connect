@@ -4,7 +4,7 @@ Release:	1
 Summary:	A client for the ManageSieve protocol
 Group:		Networking/Mail
 License:	BSD
-URL:		http://people.spodhuis.org/phil.pennock/software/
+URL:		https://people.spodhuis.org/phil.pennock/software/
 Source0:	http://people.spodhuis.org/phil.pennock/software/%{name}-%{version}.tar.bz2
 BuildArch:	noarch
 Requires:	perl
